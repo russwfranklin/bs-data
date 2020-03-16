@@ -17,17 +17,6 @@ Various Node modules at the time of writing:
 * [pg](https://www.npmjs.com/package/pg) 7.4.3
 * [require-sql](https://www.npmjs.com/package/require-sql) 1.0.0
 
-# Site Screenshots
-Bar graph of users, with their message activity split by channel:
-
-![Bar Graph Filtering](gif/bartest.gif)
-
-Line graph of users, with their message activity graphed over time:
-
-![Line Graph Scrolling](gif/linescroll.gif)
-
-![Line Graph Filtering](gif/linetest.gif)
-
 ## Addendum
 If you want to set up your own copy of this bot from the source, it will be tricky - but here are the steps.
 * Ensure you have PostgreSQL, Node, & all the relevant dependencies installed
