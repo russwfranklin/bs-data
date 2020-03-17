@@ -1,0 +1,20 @@
+{
+  "name": "bs-data",
+  "version": "1.0.0",
+  "description": "[Discord](https://discordapp.com/) bot that pulls server message history & info, writes to a database & presents visualizations on a basic site.",
+  "main": "node/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install --prefix /node && node /node/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russwfranklin/bs-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russwfranklin/bs-data/issues"
+  },
+  "homepage": "https://github.com/russwfranklin/bs-data#readme"
+}
